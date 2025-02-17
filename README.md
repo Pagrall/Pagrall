@@ -6,7 +6,7 @@
 
 
 
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/Pagrall)
+[![GitHub followers](https://img.shields.io/github/followers/Pagrall?style=social)](https://github.com/Pagrall)
 
 
 ## Sobre mi
